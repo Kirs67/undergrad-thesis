@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "AD5754BREZ")(type "KiCad")(uri "${KIPRJMOD}/libs/AD5754BREZ/AD5754BREZ.kicad_sym")(options "")(descr ""))
+  (lib (name "REF192GSZ")(type "KiCad")(uri "${KIPRJMOD}/libs/REF192GSZ/REF192GSZ.kicad_sym")(options "")(descr ""))
+)
