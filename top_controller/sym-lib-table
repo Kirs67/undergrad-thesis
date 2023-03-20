@@ -1,4 +1,6 @@
 (sym_lib_table
+  (version 7)
   (lib (name "AD5754BREZ")(type "KiCad")(uri "${KIPRJMOD}/libs/AD5754BREZ/AD5754BREZ.kicad_sym")(options "")(descr ""))
   (lib (name "REF192GSZ")(type "KiCad")(uri "${KIPRJMOD}/libs/REF192GSZ/REF192GSZ.kicad_sym")(options "")(descr ""))
+  (lib (name "top_controller")(type "KiCad")(uri "${KIPRJMOD}/libs/top_controller/top_controller.kicad_sym")(options "")(descr ""))
 )
